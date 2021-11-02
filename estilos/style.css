@@ -5,10 +5,20 @@
 body {
     background-color: rgb(41, 189, 73) ;
 }
+h1{
+    font-size: 2em;
+    color: rgb(41, 189, 73);
+}
+h2{
+    font-size: 1.5em;
+    color: rgb(189, 76, 41);
+}
+img.lado{
+    float:right ;}
 main {
     background-color: white;
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(rgb(189, 44, 44);
+    box-shadow: 3px 3px 5px rgba(rgb189, 44, 44);
 }
